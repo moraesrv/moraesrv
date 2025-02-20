@@ -31,7 +31,8 @@ Seja bem-vindo ao meu GitHub, aqui você irá encontrar projetos relacionados ao
 &nbsp;
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />        
 </div>
-
+&nbsp;
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
 
 ### Você também me encontra em:
 <a href="https://www.linkedin.com/in/rafaelvm/">
