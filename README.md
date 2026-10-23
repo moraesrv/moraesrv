@@ -9,7 +9,7 @@ Seja bem-vindo ao meu GitHub, aqui você irá encontrar projetos relacionados ao
 - Graduado em Engenharia de Computação pela PUCPR
 - Especialização em Engenharia de Software pela PUCPR
 - Especialização em Linguagem Java pela UTFPR
-
+- Especialização em Arquitetura de Software pela PUCMG
 
 ### Tecnologias que utilizo no meu dia-a-dia:
 <div display="inline">
